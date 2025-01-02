@@ -259,7 +259,7 @@
           "name": "connection",
           "propertyName": "connection",
           "type": "string",
-          "description": "Define a custom database connection",
+          "description": "Define a custom database connection", YmpOzjoilB
           "alias": "c"
         }
       ]
