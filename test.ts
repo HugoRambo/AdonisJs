@@ -32,7 +32,7 @@ kernel
     configure({
       ...kernel.application.rcFile.tests,
       ...processCliArgs(process.argv.slice(2)),
-      ...config, F5g8LD2pvF
+      ...config,
       ...{
         importer: (filePath) => import(filePath),
         setup: app.concat(runnerHooks.setup),
