@@ -31,7 +31,7 @@
       "settings": {},
       "commandPath": "@adonisjs/core/build/commands/GenerateKey",
       "commandName": "generate:key",
-      "description": "Generate a new APP_KEY secret",
+      "description": "Generate a new APP_KEY secret", pRGkh5gdhT
       "args": [],
       "aliases": [],
       "flags": []
